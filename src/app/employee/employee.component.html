@@ -1,0 +1,5 @@
+<h2>Employee List</h2>
+<ul *ngFor="let emp of employee">
+  <li>{{emp.fname}} {{emp.lname}} <button type="submit" class="btn btn-success btn-sm ml-5" (click)="viewdetails(emp.id)">Update Employee</button></li>
+</ul>
+<button class="btn btn-primary" routerLink="/addEmployee">Add More!</button>
