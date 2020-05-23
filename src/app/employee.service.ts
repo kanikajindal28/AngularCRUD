@@ -25,4 +25,8 @@ export class EmployeeService {
   updateEmployees(emp) {
     return this.http.put<Employee>(this.url + '/employees/' + emp.id, emp);
   }
+
+  deleteEmployees(emp) {
+    return this.http.delete<Employee>(this.url + '/employees/' + emp.id);
+  }
 }

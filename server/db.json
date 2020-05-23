@@ -3,37 +3,38 @@
     {
       "id": 1,
       "fname": "Kanika",
-      "lname": "jindal"
+      "lname": "jindal",
+      "age": 20
     },
     {
       "id": 2,
       "fname": "sanya",
-      "lname": "Garg"
+      "lname": "Garg",
+      "age": 20
     },
     {
       "id": 3,
       "fname": "abhishek",
-      "lname": "sharma"
+      "lname": "sharma",
+      "age": 20
     },
     {
       "id": 4,
       "fname": "rahul",
-      "lname": "sharma"
-    },
-    {
-      "id": 5,
-      "fname": "abc",
-      "lname": "def"
+      "lname": "sharma",
+      "age": 20
     },
     {
       "id": 6,
       "fname": "xyz",
-      "lname": "jkl"
+      "lname": "jkl",
+      "age": 20
     },
     {
       "id": 7,
-      "fname": "k",
-      "lname": "j"
+      "fname": "Mansi",
+      "lname": "Vats",
+      "age": "22"
     }
   ]
 }

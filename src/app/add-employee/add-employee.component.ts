@@ -20,6 +20,7 @@ export class AddEmployeeComponent implements OnInit {
       id: [''],
       fname: [''],
       lname: [''],
+      age: [''],
     });
   }
 
